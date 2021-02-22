@@ -1,4 +1,4 @@
-# Current converter app
+# Currency converter app
 
 Convert an amount value from a currency to another, the app automatically calculates taxes over the conversion. 
 
