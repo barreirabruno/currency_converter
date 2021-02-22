@@ -1,29 +1,32 @@
-# current_converter
+# Current converter app
 
-## Project setup
+Convert an amount value from a currency to another, the app automatically calculates taxes over the conversion. 
+
+## Built With
+
+*[VueJS](https://vuejs.org/)
+*[Typescript](https://www.typescriptlang.org/)
+*[Jest](https://jestjs.io/)
+
+### Prerequisites
+
+NodeJS installed, [you can install it from here](https://nodejs.org/en/)
+
+### Install and run the app
+
+1. Install npm packages
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+2. Run the app
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Unit tests
 
-### Run your unit tests
+1. Run unit tests
 ```
 npm run test:unit
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
