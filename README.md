@@ -4,9 +4,9 @@ Convert an amount value from a currency to another, the app automatically calcul
 
 ## Built With
 
-*[VueJS](https://vuejs.org/)
-*[Typescript](https://www.typescriptlang.org/)
-*[Jest](https://jestjs.io/)
+* [VueJS](https://vuejs.org/)
+* [Typescript](https://www.typescriptlang.org/)
+* [Jest](https://jestjs.io/)
 
 ### Prerequisites
 
