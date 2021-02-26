@@ -1,32 +1,24 @@
-# Currency converter app
+# Conversor de moedas com VueJS
 
-Convert an amount value from a currency to another, the app automatically calculates taxes over the conversion. 
+Converta um valor de uma moeda para outra.
 
-## Built With
+## Construído com
 
 * [VueJS](https://vuejs.org/)
 * [Typescript](https://www.typescriptlang.org/)
-* [Jest](https://jestjs.io/)
 
-### Prerequisites
+### Pré requisitos para rodar o conversor
 
-NodeJS installed, [you can install it from here](https://nodejs.org/en/)
+NodeJS instaldo, [veja como baixar e instalar aqui](https://nodejs.org/en/)
 
 ### Install and run the app
 
-1. Install npm packages
+1. Instale os pacotes
 ```
 npm install
 ```
 
-2. Run the app
+2. Rode o conversor
 ```
 npm run serve
-```
-
-### Unit tests
-
-1. Run unit tests
-```
-npm run test:unit
 ```
